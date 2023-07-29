@@ -1,0 +1,30 @@
+.navbar {
+  background: linear-gradient(90deg, #D8D25F 0%, #B9AB4B 58%, #B9AB4B 100%, #fff 100%);
+}
+
+.card-login-form {
+  background: linear-gradient(90deg, #D8D25F 0%, #B9AB4B 58%, #B9AB4B 100%, #fff 100%);
+  box-shadow: 5px 5px 10px 1px #B5A83E;
+  padding: 20px;
+  margin-top: 30px;
+}
+
+.card-header {
+
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #f0f0f0;
+  padding: 10px;
+  text-align: center;
+ 
+}
+
+.card-body {
+  margin-top: 20px; 
+}
+  
+
+
+
+
+
